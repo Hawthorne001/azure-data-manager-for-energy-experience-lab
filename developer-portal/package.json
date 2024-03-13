@@ -22,7 +22,7 @@
     "@angular/platform-browser": "~13.3.2",
     "@angular/platform-browser-dynamic": "~13.3.2",
     "@angular/router": "~13.3.2",
-    "@azure/msal-angular": "^2.2.0",
+    "@azure/msal-angular": "^2.5.12",
     "@azure/msal-browser": "^2.23.0",
     "rxjs": "~7.5.5",
     "swagger-ui-dist": "4.10.3",
